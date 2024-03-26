@@ -12,7 +12,7 @@ export const data: Array<Course> = [
   },
   {
     id: 2,
-    cover: '/images/courses/image2.avif',
+    cover: '/images/courses/cyber.jpg',
     title: 'Cyber Warfare',
     rating: 5,
     duration: '2 Months',
@@ -48,7 +48,7 @@ export const data: Array<Course> = [
   },
   {
     id: 6,
-    cover: '/images/courses/image8.avif',
+    cover: '/images/courses/risk.jpg',
     title: 'Third-Party Risk Management',
     rating: 5,
     duration: '6 Months',
