@@ -28,7 +28,7 @@ export const data: Array<Mentor> = [
   {
     id: 3,
     photo: '/images/mentors/men3.jpg',
-    name: 'Nguyễn Thuy',
+    name: 'Nkongme Esly',
     category: 'M.Sc., CISM (Director of Operations)',
     description:
       'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',

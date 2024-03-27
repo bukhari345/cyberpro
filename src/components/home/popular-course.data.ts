@@ -51,7 +51,7 @@ export const data: Array<Course> = [
     cover: '/images/courses/risk.jpg',
     title: 'Third-Party Risk Management',
     rating: 5,
-    duration: '6 Months',
+    duration: '2 Months',
     ratingCount: 14,
     category: 'Beginner',
   },

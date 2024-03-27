@@ -35,8 +35,8 @@ const companyMenu: Array<Navigation> = [
 ]
 const LocationMenu: Array<Navigation> = [
 
-  { label: 'Canada ,Molyko, Buea, Cameroon', path: '#' },
-  { label: 'Miahcha Bakery Building Last Floor', path: '#' },
+  { label: 'Ottawa, Canada  ', path: '#' },
+  { label: 'Buea, Cameroon (Miahcha Bakery Building, Last Floor)', path: '#' },
 
 ]
 const DevMenu: Array<Navigation> = [
