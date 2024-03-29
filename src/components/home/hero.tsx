@@ -138,7 +138,7 @@ const HomeHero: FC = () => {
               <Box sx={{ mb: 4, width: { xs: '100%', md: '70%' } }}>
                 <Typography sx={{ color: 'text.secondary', lineHeight: 1.6 }}>
                   {
-                    "We are providing courses focused on enhancing your skills in cybersecurity at Cyber Pro Academy"
+                    "We are providing courses focused on enhancing your skills in cybersecurity at CyberPro Academy"
                   }
                 </Typography>
               </Box>
@@ -190,7 +190,7 @@ const HomeHero: FC = () => {
                   component="h6"
                   sx={{ color: 'secondary.main', fontSize: '1.1rem', fontWeight: 700, mb: 0.5 }}
                 >
-                  Professional Certificate
+                  Professional Certificates
                 </Typography>
                 <Typography variant="subtitle1" sx={{ color: 'text.secondary', lineHeight: 1.3 }}>
                   There are certificates for all courses.
