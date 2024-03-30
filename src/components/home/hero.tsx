@@ -138,7 +138,7 @@ const HomeHero: FC = () => {
               <Box sx={{ mb: 4, width: { xs: '100%', md: '70%' } }}>
                 <Typography sx={{ color: 'text.secondary', lineHeight: 1.6 }}>
                   {
-                    "We are providing courses focused on enhancing your skills in cybersecurity at CyberPro Academy"
+                    "We offer courses dedicated to improving your cybersecurity skills at CyberPro Academy."
                   }
                 </Typography>
               </Box>
