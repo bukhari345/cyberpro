@@ -34,7 +34,7 @@ const exps: Array<Exp> = [
 const ExpItem: FC<ExpItemProps> = ({ item }) => {
   const { value, label } = item
   return (
-    <Box sx={{ textAlign: 'center', mb: { xs: 1, md: 0 } }}>
+    <Box sx={{ textAlign: 'center', mb: { xs: 1, md: 0 } }} >
       <Typography
         sx={{ color: 'secondary.main', mb: { xs: 1, md: 2 }, fontSize: { xs: 34, md: 44 }, fontWeight: 'bold' }}
       >
@@ -204,7 +204,7 @@ const HomeHero: FC = () => {
         </Grid>
 
         {/* Experience */}
-        <Box sx={{ boxShadow: 2, py: 4, px: 7, borderRadius: 4 }}>
+        <Box sx={{ boxShadow: 2, py: 4, px: 7, borderRadius: 4 }} style={{backgroundColor:'lightgray'}}>
           <Grid container spacing={2}>
             {exps.map((item) => (
               <Grid key={item.value} item xs={12} md={4}>

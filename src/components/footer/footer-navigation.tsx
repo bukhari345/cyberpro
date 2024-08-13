@@ -41,7 +41,7 @@ const LocationMenu: Array<Navigation> = [
 ]
 const DevMenu: Array<Navigation> = [
 
-  { label: 'Developed By Chawala Solutions', path: '#' },
+  { label: '', path: '#' },
 
 
 ]

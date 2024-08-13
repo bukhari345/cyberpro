@@ -15,7 +15,7 @@ export const data: Array<Mentor> = [
   },
   {
     id: 2,
-    photo: '/images/mentors/men2.jpg',
+    photo: '/images/mentors/men5.jpg',
     name: 'Felix Navaga',
     category: 'MBA, CISSP, CISA (Managing Director)',
     description:
