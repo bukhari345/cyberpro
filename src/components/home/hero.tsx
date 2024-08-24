@@ -109,7 +109,7 @@ const HomeHero: FC = () => {
                         top: -16,
                         right: -21,
                         width: { xs: 22, md: 30 },
-                        height: 'auto',
+                        height: 'au  to',
                       },
                     }}
                   >
@@ -132,7 +132,7 @@ const HomeHero: FC = () => {
                     </svg>
                   </Typography>{' '}
                   <br />
-                  Security Professional
+                  Security Expert
                 </Typography>
               </Box>
               <Box sx={{ mb: 4, width: { xs: '100%', md: '70%' } }}>
